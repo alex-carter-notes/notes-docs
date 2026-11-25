@@ -1,0 +1,10 @@
+site_name: Notes by Alex Carter
+site_description: Notes and short guides
+site_url: https://alex-carter-notes.readthedocs.io/en/latest/
+use_directory_urls: false
+theme:
+  name: readthedocs
+  custom_dir: overrides
+nav:
+  - Home: index.md
+  - "Growing a small vegetable bed: first notes": vegetable-bed-first-notes.md
